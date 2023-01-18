@@ -1,4 +1,4 @@
-# MyNewsApp
+# VIX-Schoters-Adam-Ghifari-Idham-Ds
 News App Build With Kotlin
 
 Material : Kotlin, Retrofit, Room <br />
